@@ -123,3 +123,23 @@ a:hover {
 .juicer-feed li.feed-item.juicer {
 	display: none !important;
 }
+
+.mobile-layout .side {
+	width: 100%;
+}
+
+.mobile-layout .side.side-left {
+	display:none;
+}
+
+.mobile-layout .side .juicer-feed {
+	display:none;
+}
+
+.mobile-layout .intro-content {
+	top: 40%;
+}
+
+.mobile-layout .social a {
+    font-size: 25px;
+}
