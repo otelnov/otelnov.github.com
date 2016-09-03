@@ -272,3 +272,17 @@ a:hover {
 	color: #fff;
 	background-color: #47a3da;
 }
+
+.side-left{
+	overflow: scroll;
+	padding: 100px 150px;
+}
+
+.referral {
+	visibility: hidden;
+	display: none !important;
+}
+
+.juicer-feed li.feed-item.juicer{
+	display: none !important;
+}

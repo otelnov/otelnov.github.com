@@ -347,6 +347,7 @@ body {
 
 /* Media Queries */
 @media screen and (max-width: 83em) {
+	.side-left{ padding: 20px; }
 	.intro-content { font-size: 60%; }
 }
 
