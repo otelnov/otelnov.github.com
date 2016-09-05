@@ -68,7 +68,7 @@ body {
 	top: 50%;
 	left: 50%;
 	padding: 0 1em;
-	/*width: 50%;*/
+	width: 100%;
 	cursor: pointer;
 	-webkit-transform: translateY(-50%) translateX(-50%);
 	transform: translateY(-50%) translateX(-50%);
@@ -299,8 +299,8 @@ body {
 }
 
 .open-right .side-right .intro-content {
-	-webkit-transform: translateY(-50%) translateX(0%) scale(0.6);
-	transform: translateY(-50%) translateX(0%) scale(0.6);
+	-webkit-transform: translateY(-50%) translateX(-25%) scale(0.6);
+	transform: translateY(-50%) translateX(-25%) scale(0.6);
 }
 
 .open-right .page-right {
